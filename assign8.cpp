@@ -1,6 +1,3 @@
-//Ng, Pei Aou Wilson 100332292
-//Assignment 8 main file
-
 #include <iostream>
 #include <fstream>
 #include <iomanip>
