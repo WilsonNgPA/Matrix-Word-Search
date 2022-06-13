@@ -3,9 +3,9 @@ CFLAGS = -pedantic -Wall -Wextra -fno-elide-constructors $(VERSION) $(DEBUG)
 LFLAGS = -Wall $(VERSION) $(DEBUG)
 
 INCS = stack.h
-SRCS = assign8.cpp
+SRCS = stacksearch.cpp
 OBJS = $(SRCS:.cpp=.o)
-EXEC = assign8
+EXEC = search
 
 all: $(SRCS) $(EXEC)
 
