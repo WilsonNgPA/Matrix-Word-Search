@@ -5,7 +5,7 @@ LFLAGS = -Wall $(VERSION) $(DEBUG)
 INCS = stack.h
 SRCS = stacksearch.cpp
 OBJS = $(SRCS:.cpp=.o)
-EXEC = search
+EXEC = stacksearch
 
 all: $(SRCS) $(EXEC)
 
