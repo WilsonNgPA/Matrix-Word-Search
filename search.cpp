@@ -1,4 +1,4 @@
-//g++ -pedantic -Wall -Wextra -std=c++14 assign3.cpp -o assign3
+//g++ -pedantic -Wall -Wextra -std=c++14 search.cpp -o search
 //This program will look for a word in the matrix and print out the path as a matrix
 
 #include <iostream>
