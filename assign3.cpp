@@ -1,4 +1,3 @@
-//Ng, Pei Aou Wilson, 100332292
 //g++ -pedantic -Wall -Wextra -std=c++14 assign3.cpp -o assign3
 //This program will look for a word in the matrix and print out the path as a matrix
 
