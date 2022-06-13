@@ -1,4 +1,3 @@
-//Ng, Pei Aou Wilson 100332292
 //stack h file
 
 #ifndef STACK_H
